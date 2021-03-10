@@ -11,6 +11,7 @@
 		3F47789525F6894600767099 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F47789425F6894600767099 /* ContentView.swift */; };
 		3F47789725F6894C00767099 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F47789625F6894C00767099 /* Assets.xcassets */; };
 		3F47789A25F6894C00767099 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F47789925F6894C00767099 /* Preview Assets.xcassets */; };
+		3F4778A325F68C1400767099 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4778A225F68C1400767099 /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F47789625F6894C00767099 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F47789925F6894C00767099 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F47789B25F6894C00767099 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F4778A225F68C1400767099 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3F47789225F6894600767099 /* Za_HunterApp.swift */,
 				3F47789425F6894600767099 /* ContentView.swift */,
+				3F4778A225F68C1400767099 /* LocationManager.swift */,
 				3F47789625F6894C00767099 /* Assets.xcassets */,
 				3F47789B25F6894C00767099 /* Info.plist */,
 				3F47789825F6894C00767099 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				3F47789525F6894600767099 /* ContentView.swift in Sources */,
 				3F47789325F6894600767099 /* Za_HunterApp.swift in Sources */,
+				3F4778A325F68C1400767099 /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
